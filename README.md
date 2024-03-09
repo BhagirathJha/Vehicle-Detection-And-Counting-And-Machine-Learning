@@ -19,7 +19,7 @@ availability of parking slots and location of vacant slots.
 
 ## Screenshots
 
-![image 1](photodata/First img.png)
+![Screenshot 1](photodata/1.png)
 ![image 2](photodata/Sec img.png)
 ![photodata](Third img.png)
 ![photodata](For img.png)
