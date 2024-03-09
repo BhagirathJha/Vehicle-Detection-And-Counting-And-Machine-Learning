@@ -19,7 +19,7 @@ availability of parking slots and location of vacant slots.
 
 ## Screenshots
 
-![photodata](photodata/First img.png)
+![photodata]([photodata/First img.png](https://github.com/BhagirathJha/Vehicle-Detection-And-Counting-And-Machine-Learning/blob/main/photodata/First%20img.png))
 ![photodata](Sec img.png)
 ![photodata](Third img.png)
 ![photodata](For img.png)
@@ -42,6 +42,7 @@ availability of parking slots and location of vacant slots.
 - Python
 - OpenCV
 - Yolo v3
+- SqlLite
 
 ## Contributing
 
