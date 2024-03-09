@@ -49,5 +49,5 @@ availability of parking slots and location of vacant slots.
 Contributions to the project are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request.
 
 
-![Screenshot 1](photodata/8.png)
+![Logo](photodata/8.png)
 
