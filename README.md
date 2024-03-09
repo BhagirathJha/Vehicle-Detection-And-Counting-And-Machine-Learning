@@ -20,12 +20,12 @@ availability of parking slots and location of vacant slots.
 ## Screenshots
 
 ![Screenshot 1](photodata/1.png)
-![image 2](photodata/Sec img.png)
-![photodata](Third img.png)
-![photodata](For img.png)
-![photodata](Fif img.png)
-![photodata](Six img.png)
-![photodata](Sev img.png)
+![Screenshot 1](photodata/2.png)
+![Screenshot 1](photodata/3.png)
+![Screenshot 1](photodata/4.png)
+![Screenshot 1](photodata/5.png)
+![Screenshot 1](photodata/6.png)
+![Screenshot 1](photodata/7.png)
 
 
 ## Features
@@ -49,5 +49,5 @@ availability of parking slots and location of vacant slots.
 Contributions to the project are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request.
 
 
-![photodata](photodata/Capture Logo.png)
+![Screenshot 1](photodata/Logo.png)
 
