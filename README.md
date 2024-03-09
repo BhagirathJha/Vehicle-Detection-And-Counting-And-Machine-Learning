@@ -19,8 +19,8 @@ availability of parking slots and location of vacant slots.
 
 ## Screenshots
 
-![photodata]([photodata/First img.png](https://github.com/BhagirathJha/Vehicle-Detection-And-Counting-And-Machine-Learning/blob/main/photodata/First%20img.png))
-![photodata](Sec img.png)
+![image 1](photodata/First img.png)
+![image 2](photodata/Sec img.png)
 ![photodata](Third img.png)
 ![photodata](For img.png)
 ![photodata](Fif img.png)
