@@ -19,7 +19,7 @@ availability of parking slots and location of vacant slots.
 
 ## Screenshots
 
-![photodata](First img.png)
+![photodata](photodata/First img.png)
 ![photodata](Sec img.png)
 ![photodata](Third img.png)
 ![photodata](For img.png)
@@ -48,5 +48,5 @@ availability of parking slots and location of vacant slots.
 Contributions to the project are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request.
 
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![photodata](photodata/Capture Logo.png)
 
